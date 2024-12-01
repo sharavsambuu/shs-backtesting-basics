@@ -1,7 +1,15 @@
 # shs-backtesting-basics
 
+    python3.12
 
 
+
+# config.ini
+
+    ```ini
+    [XAUUSD]
+    csv_path: D:\QuantDataManager122\export\XAUUSD_1m.csv
+    ```
 
 # references
 

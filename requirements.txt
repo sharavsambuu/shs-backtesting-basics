@@ -2,4 +2,6 @@ pandas
 numpy
 jupyter
 matplotlib
+mplfinance
+quantstats
 numba
