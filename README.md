@@ -1,5 +1,15 @@
-# shs-backtesting-basics
+# Todo
 
+    - Implement simple strategy with Python and Pandas
+    - Implement strategy with numpy exlusive code with pre-allocation technique in order to benefit from the cache locality
+    - Cythonize strategy
+    - Jit with Numba
+    - Compare performance of different implementation
+
+
+# Environment
+
+    Window 10
     python3.12
 
 
