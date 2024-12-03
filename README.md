@@ -16,7 +16,7 @@
 
 # config.ini
 
-    ```ini
+    ```
     [XAUUSD]
     csv_path: D:\QuantDataManager122\export\XAUUSD_1m.csv
     ```
@@ -28,5 +28,7 @@
 
     Backtesting using Trailing Stop Loss
     https://www.youtube.com/watch?v=2PCe2aNSpIk
+
+    https://towardsdatascience.com/a-300x-speed-boost-when-iterating-data-yes-please-b11a29b9b818
 
 
