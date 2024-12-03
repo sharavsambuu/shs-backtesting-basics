@@ -50,6 +50,7 @@ df.dropna(inplace=True)
 print(df)
 print(f"elapsed : {time.time()-start_time}")
 
+
 #%%
 
 
