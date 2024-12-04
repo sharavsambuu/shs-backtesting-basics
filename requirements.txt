@@ -6,3 +6,4 @@ mplfinance
 quantstats
 numba
 cython
+ray
