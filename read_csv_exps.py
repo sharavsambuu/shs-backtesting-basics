@@ -36,7 +36,7 @@ df_
 
 
 #%%
-plot_df = df_.iloc[-1000:]
+plot_df = df_.iloc[-200:]
 mpf.plot(plot_df, type='candle', style='binance')
 
 
